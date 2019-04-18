@@ -1,20 +1,16 @@
-remote_theme : CloudCannon/aviator-jekyll-template
-
-
 # ----
 # Site
 
-title: Aviator
-description: Jekyll template for API documentation.
-url                      : "https://anotherrainbow.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+title: AnotherRainbow
+description: AnotherRainbow
+url: https://anotherrainbow.com
 google_analytics_key:
 permalink: pretty
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Asia/Seoul
 
 collections:
   documentation:
