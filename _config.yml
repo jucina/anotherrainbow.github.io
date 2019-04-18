@@ -1,9 +1,13 @@
+remote_theme : CloudCannon/aviator-jekyll-template
+
+
 # ----
 # Site
 
 title: Aviator
 description: Jekyll template for API documentation.
-url: https://example.com
+url                      : "https://anotherrainbow.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 google_analytics_key:
 permalink: pretty
 
